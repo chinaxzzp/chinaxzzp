@@ -4,7 +4,7 @@
 </p>
 
 <!-- Título principal -->
-<h1 align="center">✨ 𝑴𝒊𝒂 - 𝑪𝒉𝒊𝒏𝒊𝒕𝒂 ✨</h1>
+<h1 align="center">𝑪𝑯𝑰𝑵𝑰𝑻𝑨 || ᵒᶠᶦᶜᶦᵃˡ</h1>
 
 <p align="center">
   <i>“El código también puede ser arte.”</i>
